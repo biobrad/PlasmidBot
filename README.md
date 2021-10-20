@@ -11,3 +11,5 @@ It then downloads the full sequences for the hits from the NCBI data base and ru
 From that alignment it determines the 'percentage coverage' against the plasmid sequence, providing a text report of the findings.
 
 The script still requires a bit of work, especially around the 'concensus' FNA which shows matches of sequences and their particular gene names. 
+
+Argument options plus adding more intuition to the script in the handling of file names also needs to be written.
