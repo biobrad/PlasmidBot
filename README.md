@@ -14,4 +14,5 @@ The script still requires a bit of work, especially around the 'concensus' FNA w
 
 Argument options plus adding more intuition to the script in the handling of file names also needs to be written.
 
-[Hong_Plasmidbot_Diagram.pdf](https://github.com/biobrad/PlasmidBot/files/11036851/Hong_Plasmidbot_Diagram.pdf)
+
+![plasmidbotdiagram](https://user-images.githubusercontent.com/55652506/226815037-31779d1c-b9ab-4e82-8f4e-bd42850a9dd2.png)
